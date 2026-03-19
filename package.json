@@ -1,9 +1,8 @@
 {
   "name": "expense-tracker",
   "version": "1.0.0",
-  "description": "Simple expense tracker",
-  "main": "index.html",
+  "main": "server.js",
   "scripts": {
-    "start": "npx serve ."
+    "start": "node server.js"
   }
 }
